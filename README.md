@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :Nisha.J
-Roll no :212223040133
-Date of experiment :05/03/2025
+# Name :Nisha.J
+# Roll no :212223040133
+# Date of experiment :05/03/2025
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
