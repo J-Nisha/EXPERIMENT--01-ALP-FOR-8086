@@ -118,6 +118,53 @@ hlt
 ![ss2pmcdiv](https://github.com/user-attachments/assets/ebb4f04a-b3a8-4002-80ff-4df66f58ab34)
 
 
+## And of 8 bit numbers ALP
+```
+mov al,75h
+mov bl,66h
+and al,bl 
+hlt
+```
+## output
+![Screenshot 2025-03-10 084528](https://github.com/user-attachments/assets/003815f9-ef08-45de-b5b0-3bb8e3c6c73a)
+
+## Or of 8 bit numbers ALP
+```
+mov al,75h
+mov bl,66h
+or al,bl 
+hlt
+```
+
+## output
+![Screenshot 2025-03-10 084556](https://github.com/user-attachments/assets/88e9db92-d89d-4e3f-9c8f-265ee55c304e)
+
+## Not of 8 bit numbers ALP
+```
+mov al,75h
+mov bl,66h
+not al,
+hlt
+```
+
+## output
+![Screenshot 2025-03-10 084649](https://github.com/user-attachments/assets/80a8119d-88d6-48e6-9369-9273f0c90e9c)
+
+## xor of 8 bit numbers ALP
+```
+mov al,75h
+mov bl,66h
+xor al,
+hlt
+```
+
+## output
+![Screenshot 2025-03-10 085416](https://github.com/user-attachments/assets/8edaa50d-6a2a-47a0-9bc5-2ba152d57c49)
+
+
+
+
+
 
 ## Result :
 Thus the program has been successfully completed
